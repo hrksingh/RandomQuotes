@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomQuotes</string>
+    <string name="hair_space">&#x200A;</string>
+    <string name="next">Next</string>
+</resources>
